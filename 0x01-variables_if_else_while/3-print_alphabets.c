@@ -17,6 +17,7 @@ int main(void)
 	}
 	{
 		int Mayus1;
+
 		for (Mayus1 = 'A'; Mayus1 <= 'Z'; Mayus1++)
 	
 		putchar(Mayus1);
